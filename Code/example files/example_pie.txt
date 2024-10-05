@@ -1,0 +1,13 @@
+Rent, 700
+Groceries, 300
+Clothes, 30
+Makeup, 20
+Restaurants, 40
+School, 30
+Hobbies, 50
+Electricity, 15
+Insurance, 10
+Bus ticket, 60
+Water, 7
+Savings, 200
+Other, 60

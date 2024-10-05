@@ -1,0 +1,11 @@
+maths, 10
+physics, 5
+chemistry, 9
+history, 9.5
+biology, 9.5
+finnish, 9
+english, 8
+french, 10
+music, 6.5
+pe, 10
+mmmmmmmmmmmmmmmmmmmmmmmmmmm, 8
