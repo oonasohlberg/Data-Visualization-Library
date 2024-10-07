@@ -5,7 +5,7 @@
 ## File and directory structure
 - Code files are located in the 'Code' directory.
 - Example data files and images used in the menu are also in the 'Code' directory.
-- Project plan and documentation can be found in the 'Documents' directory.
+- Documentation can be found in the 'Documents' directory.
 
 ## Installation instructions
 - The program requires PyQt6 to be installed.
